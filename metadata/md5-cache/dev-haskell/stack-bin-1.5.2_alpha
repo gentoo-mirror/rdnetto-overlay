@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=The Haskell Tool Stack (binary package)
+EAPI=6
+HOMEPAGE=http://haskellstack.org
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+RDEPEND=!dev-haskell/stack
+SLOT=0/1.5.2_alpha
+SRC_URI=https://syd.rdnetto.net/pub/stack-9999.tar.xz
+_md5_=913c7a755875ca9705be6098eee70c67

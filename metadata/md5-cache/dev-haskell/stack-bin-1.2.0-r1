@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DEPEND=!dev-haskell/stack !sys-libs/ncurses:5
+DESCRIPTION=The Haskell Tool Stack (patched binary package)
+EAPI=6
+HOMEPAGE=http://haskellstack.org
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+SLOT=0/1.2.0
+SRC_URI=https://syd.rdnetto.net/pub/stack-1.2.0-r1.tar.xz
+_md5_=45c47c533c792657519266567ac48ce5

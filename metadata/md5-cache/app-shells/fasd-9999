@@ -1,0 +1,9 @@
+DEFINED_PHASES=install unpack
+DEPEND=dev-vcs/git
+DESCRIPTION=Quick command-line access to files and directories
+EAPI=5
+HOMEPAGE=https://github.com/clvv/fasd
+LICENSE=MIT
+SLOT=0
+_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
+_md5_=87b185a5802d268a4d514059d7b409e3
