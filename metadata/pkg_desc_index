@@ -4,7 +4,7 @@ app-misc/powerline-hs 0.1.0.0 0.1.1.0 9999: Tool for generating shell prompts. H
 app-misc/syntect 1.6.0: Library for syntax highlighting using Sublime Text's grammars
 app-shells/fasd 1.0.1 9999: Quick command-line access to files and directories
 dev-haskell/stack 9999: The Haskell Tool Stack
-dev-haskell/stack-bin 1.2.0-r1 1.3.2 1.4.0 1.5.0 1.5.1 1.5.2_alpha: The Haskell Tool Stack (binary package)
+dev-haskell/stack-bin 1.2.0-r1 1.3.2 1.4.0 1.5.0 1.5.1 1.5.2_alpha 1.6.1: The Haskell Tool Stack (binary package)
 dev-java/jprofiler 9.2: JProfiler java profiling tool
 dev-python/backports-csv 1.0.5: Backport of Python 3's csv module for Python 2
 dev-python/cli_helpers 0.2.3: Python helpers for common CLI tasks
