@@ -1,10 +1,10 @@
 DEFINED_PHASES=compile configure install unpack
-DEPEND=>=dev-vcs/git-1.8.2.1 || ( dev-haskell/stack dev-haskell/stack-bin )
+DEPEND=>=dev-vcs/git-1.8.2.1[curl] || ( dev-haskell/stack dev-haskell/stack-bin )
 DESCRIPTION=Tool for generating shell prompts. Haskell clone of app-misc/powerline.
 EAPI=6
 HOMEPAGE=https://github.com/rdnetto/powerline-hs.git
 LICENSE=Apache-2.0
 RDEPEND=app-misc/powerline
 SLOT=0/9999
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8	stack	99f48943879d47f0ae53f1aea22f1bd5
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b	stack	99f48943879d47f0ae53f1aea22f1bd5
 _md5_=4af9fcf0290a0c4328e055ae2c40ea69
