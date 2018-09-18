@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/commercialhaskell/stack
 LICENSE=BSD
 SLOT=0/9999
 SRC_URI=https://github.com/commercialhaskell/ghc/releases/download/ghc-8.0.2-release/ghc-8.0.2-x86_64-fedora24-linux.tar.xz -> ghc-tinfo6-nopie-8.0.2.tar.xz
-_eclasses_=git-r3	918d6a744039c29af2cadc7317459765	stack	99f48943879d47f0ae53f1aea22f1bd5
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9	stack	99f48943879d47f0ae53f1aea22f1bd5
 _md5_=1894d9fecd9750497e2fb3ef8580bab2
