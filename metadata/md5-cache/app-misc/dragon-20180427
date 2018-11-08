@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure unpack
+DEPEND=x11-libs/gtk+:3 >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Drag and drop source/target for X
+EAPI=6
+HOMEPAGE=https://github.com/mwh/dragon
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=x11-libs/gtk+:3
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=e1d02d90da32c1cedee04af5564ccf35
