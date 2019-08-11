@@ -2,3 +2,8 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+sys-apps/fzf-bin:bash - Adds completion support for app-shells/bash.
+sys-apps/fzf-bin:tmux - Adds tmux-session script.
+sys-apps/fzf-bin:zsh - Adds completion support for app-shells/zsh.
+x11-wm/i3:icons - Render window icons next to the title.
+x11-wm/i3:pango - Use x11-libs/pango to render text in order to support fonts which have more glyphs (e.g. Kanji). See RELEASE-NOTES for more information
