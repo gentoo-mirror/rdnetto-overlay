@@ -1,4 +1,4 @@
-app-editors/neovim-qt 0.2.4 0.2.5 0.2.6 0.2.7 0.2.8 0.2.9 0.2.10 0.2.11 0.2.12 0.2.13 0.2.14 9999: Qt GUI/RPC for Neovim
+app-editors/neovim-qt 0.2.4 0.2.5 0.2.6 0.2.7 0.2.8 0.2.9 0.2.10 0.2.11 0.2.12 0.2.13 0.2.14 0.2.15 9999: Qt GUI/RPC for Neovim
 app-emulation/systemd-docker 0.2.1: Wrapper for 'docker run' to handle systemd quirks
 app-misc/bat 0.3.0 0.7.0 0.7.1 0.8.0 0.9.0 0.10.0 0.11.0 0.12.1: cat which is bat
 app-misc/dragon 20180427: Drag and drop source/target for X
@@ -23,7 +23,7 @@ dev-vcs/dispatch-merge 1.0.0.0 1.1.0.0 1.1.0.0-r1 9999: CLI tool for resolving m
 games-engines/gargoyle 2011.1-r1: An Interactive Fiction (IF) player supporting all major formats.
 net-im/bluejeans 1.33.15: Online meetings, video conferencing, and screen sharing for teams of any size
 net-im/zoom-bin 2.7.162522.0121: Online video conferencing client
-sys-apps/fzf-bin 0.15.7 0.17.4 0.17.5 0.18.0: A command-line fuzzy finder written in Go (binary package)
+sys-apps/fzf-bin 0.15.7 0.17.4 0.17.5 0.18.0 0.19.0: A command-line fuzzy finder written in Go (binary package)
 sys-process/nq 0.1 0.3.1 9999: Unix command line queue utility.
 www-apps/freshrss 1.8.0: FreshRSS - a free, self-hostable aggregator
 x11-apps/xlayoutdisplay 1.0.2 9999: Detects and arranges linux displays
