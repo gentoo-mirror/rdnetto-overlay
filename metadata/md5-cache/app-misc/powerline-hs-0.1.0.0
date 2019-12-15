@@ -8,5 +8,5 @@ LICENSE=Apache-2.0
 PROPERTIES=live
 RDEPEND=app-misc/powerline
 SLOT=0/0.1.0.0
-_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd	stack	26b18382582b5f2f77f408f8432f8005
+_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b	stack	26b18382582b5f2f77f408f8432f8005
 _md5_=4af9fcf0290a0c4328e055ae2c40ea69
