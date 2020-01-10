@@ -9,5 +9,5 @@ PROPERTIES=live
 RDEPEND=app-misc/powerline
 SLOT=0/0.1.1.0
 SRC_URI=https://github.com/commercialhaskell/ghc/releases/download/ghc-8.0.2-release/ghc-8.0.2-x86_64-fedora24-linux.tar.xz -> ghc-tinfo6-nopie-8.0.2.tar.xz
-_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b	stack	26b18382582b5f2f77f408f8432f8005
+_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33	stack	26b18382582b5f2f77f408f8432f8005
 _md5_=6808c90b4ad66764733bfa6137d6af98

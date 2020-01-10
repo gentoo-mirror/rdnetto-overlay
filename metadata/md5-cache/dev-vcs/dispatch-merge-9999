@@ -7,5 +7,5 @@ LICENSE=Apache-2.0
 PROPERTIES=live
 SLOT=0/9999
 SRC_URI=https://github.com/commercialhaskell/ghc/releases/download/ghc-7.10.3-release/ghc-7.10.3-x86_64-fedora24-linux.tar.xz -> ghc-tinfo6-nopie-7.10.3.tar.xz
-_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b	stack	26b18382582b5f2f77f408f8432f8005
+_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33	stack	26b18382582b5f2f77f408f8432f8005
 _md5_=cb34cb24a59742d4589b18f09705c0c7
