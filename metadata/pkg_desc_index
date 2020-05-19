@@ -13,8 +13,6 @@ dev-util/cargo-ebuild 0.1.4: Generates an ebuild for a package using the in-tree
 dev-util/shellcheck 0.4.5 0.4.6 0.5.0 0.6.0: Shell script analysis tool
 dev-vcs/dispatch-merge 1.0.0.0 1.1.0.0 1.1.0.0-r1 9999: CLI tool for resolving merge conflicts, inspired by dispatch-conf.
 games-engines/gargoyle 2011.1-r1: An Interactive Fiction (IF) player supporting all major formats.
-net-im/bluejeans 1.33.15: Online meetings, video conferencing, and screen sharing for teams of any size
-net-im/zoom-bin 2.7.162522.0121: Online video conferencing client
 sys-apps/fzf-bin 0.15.7 0.17.4 0.17.5 0.18.0 0.19.0 0.20.0 0.21.1: A command-line fuzzy finder written in Go (binary package)
 sys-process/nq 0.1 0.3.1 9999: Unix command line queue utility.
 www-apps/freshrss 1.8.0: FreshRSS - a free, self-hostable aggregator
