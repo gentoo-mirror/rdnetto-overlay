@@ -1,6 +1,5 @@
 app-editors/neovim-qt 0.2.4 0.2.5 0.2.6 0.2.7 0.2.8 0.2.9 0.2.10 0.2.11 0.2.12 0.2.13 0.2.14 0.2.15 9999: Qt GUI/RPC for Neovim
 app-emulation/systemd-docker 0.2.1: Wrapper for 'docker run' to handle systemd quirks
-app-misc/bat 0.3.0 0.7.0 0.7.1 0.8.0 0.9.0 0.10.0 0.11.0 0.12.1 0.13.0 0.15.0: cat which is bat
 app-misc/dragon 20180427: Drag and drop source/target for X
 app-misc/powerline-hs 0.1.0.0 0.1.1.0 9999: Tool for generating shell prompts. Haskell clone of app-misc/powerline.
 app-shells/fasd 1.0.1 9999: Quick command-line access to files and directories
