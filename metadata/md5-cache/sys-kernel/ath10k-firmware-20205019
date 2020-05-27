@@ -1,0 +1,9 @@
+DEFINED_PHASES=install
+DESCRIPTION=Firmware for Ath10k / QCA6174 wireless chip in Surface Go.
+EAPI=6
+HOMEPAGE=https://github.com/dmhacker/arch-linux-surface/issues/62
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+SLOT=0/20205019
+SRC_URI=https://github.com/jakeday/linux-surface/raw/a39cc29295318894d624977a107c0999cc0ef6ac/firmware/ath10k_firmware.zip
+_md5_=225d28a6cbd09010f26899739a568a40
