@@ -13,7 +13,7 @@ SRC_URI="https://github.com/equalsraf/neovim-qt/archive/v${PV}.tar.gz
 
 LICENSE="ISC"
 SLOT="0"
-KEYWORDS=""
+KEYWORDS="amd64"
 IUSE=""
 
 DEPEND="dev-qt/qtcore:5
