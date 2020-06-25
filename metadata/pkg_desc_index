@@ -1,6 +1,5 @@
 app-editors/neovim-qt 0.2.4 0.2.5 0.2.6 0.2.7 0.2.8 0.2.9 0.2.10 0.2.11 0.2.12 0.2.13 0.2.14 0.2.15 0.2.16.1 9999: Qt GUI/RPC for Neovim
 app-emulation/systemd-docker 0.2.1: Wrapper for 'docker run' to handle systemd quirks
-app-misc/brotab 1.3.0: Control your browser's tabs from the command line
 app-misc/diff-so-fancy 1.2.7 1.3.0: Good-lookin' diffs. Actually... nah... The best-lookin' diffs.
 app-misc/dragon 20180427: Drag and drop source/target for X
 app-misc/powerline-hs 0.1.3.1 9999: Tool for generating shell prompts. Haskell clone of app-misc/powerline.
@@ -24,6 +23,7 @@ virtual/misc-tools 20200614: Collection of misc tools
 virtual/shell-tools 20200614: Collection of shell tools
 virtual/system-tools 20200614: Collection of system tools
 www-apps/freshrss 1.8.0: FreshRSS - a free, self-hostable aggregator
+www-plugins/brotab 1.3.0: Control your browser's tabs from the command line
 x11-apps/xlayoutdisplay 1.0.2 9999: Detects and arranges linux displays
 x11-misc/i3lock-unit 1.0: Systemd unit for autolocking
 x11-misc/ulauncher 5.7.5: Application launcher for Linux
