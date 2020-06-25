@@ -25,4 +25,5 @@ virtual/system-tools 20200614: Collection of system tools
 www-apps/freshrss 1.8.0: FreshRSS - a free, self-hostable aggregator
 x11-apps/xlayoutdisplay 1.0.2 9999: Detects and arranges linux displays
 x11-misc/i3lock-unit 1.0: Systemd unit for autolocking
+x11-misc/ulauncher 5.7.5: Application launcher for Linux
 x11-wm/i3 4.12: An improved dynamic tiling window manager
