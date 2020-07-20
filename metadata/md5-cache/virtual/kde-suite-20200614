@@ -1,7 +1,0 @@
-DEFINED_PHASES=-
-DESCRIPTION=The subset of the KDE suite I care about
-EAPI=7
-KEYWORDS=amd64
-RDEPEND=kde-apps/kdeadmin-meta kde-apps/kdecore-meta kde-apps/kdegraphics-meta kde-apps/kdeutils-meta kde-frameworks/kdesu kde-misc/kdeconnect kde-plasma/plasma-meta
-SLOT=0
-_md5_=a06b4fec8c915b49d73e20f58a36ed3e

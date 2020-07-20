@@ -1,7 +1,0 @@
-DEFINED_PHASES=-
-DESCRIPTION=Collection of shell tools
-EAPI=7
-KEYWORDS=amd64
-RDEPEND=app-editors/neovim app-editors/neovim-qt app-misc/diff-so-fancy app-misc/powerline-hs app-misc/tmux app-shells/antibody app-shells/fasd app-shells/fzf app-shells/gentoo-zsh-completions app-shells/zsh app-text/dos2unix app-text/sloccount dev-python/neovim-remote dev-python/pynvim dev-util/ctags dev-vcs/dispatch-merge dev-vcs/git dev-vcs/tig media-gfx/exif sys-apps/bat sys-apps/ripgrep
-SLOT=0
-_md5_=3a7f3b936129c5eec8ef1cf1db1935a5

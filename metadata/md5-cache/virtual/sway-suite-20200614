@@ -1,7 +1,0 @@
-DEFINED_PHASES=-
-DESCRIPTION=Sway and associated tools
-EAPI=7
-KEYWORDS=amd64
-RDEPEND=app-misc/brotab gui-wm/sway gui-apps/grim gui-apps/kanshi gui-apps/mako gui-apps/rot8 gui-apps/slurp gui-apps/wdisplays gui-apps/wf-recorder gui-apps/wl-clipboard gui-apps/waybar gui-apps/wlogout gui-apps/wofi media-fonts/fontawesome media-video/v4l2loopback sys-power/brightnessctl x11-terms/kitty x11-misc/ulauncher
-SLOT=0
-_md5_=54da6f908a3b9cab37fc4cd7eefab24d
