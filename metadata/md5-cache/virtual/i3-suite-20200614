@@ -1,0 +1,7 @@
+DEFINED_PHASES=-
+DESCRIPTION=i3, and related useful tools
+EAPI=7
+KEYWORDS=amd64
+RDEPEND=x11-misc/i3lock x11-misc/i3status x11-misc/numlockx x11-misc/redshift x11-misc/rofi x11-wm/i3
+SLOT=0
+_md5_=b434d9884f30422745849ddae0d4a379
