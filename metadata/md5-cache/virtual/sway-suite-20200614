@@ -1,7 +1,8 @@
 DEFINED_PHASES=-
+DEPEND=virtual/system-tools
 DESCRIPTION=Sway and associated tools
 EAPI=7
 KEYWORDS=amd64
 RDEPEND=gui-wm/sway gui-apps/grim gui-apps/kanshi gui-apps/mako gui-apps/slurp gui-apps/wdisplays gui-apps/wf-recorder gui-apps/wl-clipboard gui-apps/waybar gui-apps/wlogout gui-apps/wofi media-fonts/fontawesome media-video/v4l2loopback sys-power/brightnessctl www-plugins/brotab x11-terms/kitty x11-misc/ulauncher
 SLOT=0
-_md5_=109a2f47fb933293aa6f0948fdd9b8a8
+_md5_=033a70abe7a8869dd78dd2e5f17086cd
