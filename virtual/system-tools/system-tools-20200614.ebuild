@@ -32,6 +32,8 @@ RDEPEND="
 	net-misc/mosh
 	net-misc/openssh
 	net-misc/wget
+	net-vpn/wireguard-modules
+	net-vpn/wireguard-tools
 	sys-apps/bar
 	sys-apps/fwupd
 	sys-apps/gptfdisk
@@ -46,5 +48,7 @@ RDEPEND="
 	sys-fs/xfsprogs
 	sys-kernel/gentoo-kernel-bin
 	sys-kernel/linux-firmware
+	sys-process/htop
+	sys-process/iotop
 	x11-terms/kitty-terminfo
 "
