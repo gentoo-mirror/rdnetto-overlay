@@ -28,7 +28,7 @@ virtual/kde-suite 20200614: The subset of the KDE suite I care about
 virtual/misc-tools 20200614: Collection of misc tools
 virtual/shell-tools 20200614: Collection of shell tools
 virtual/sway-suite 20200614: Sway and associated tools
-virtual/system-tools 20200811: Collection of system tools
+virtual/system-tools 20200830: Collection of system tools
 www-apps/freshrss 1.8.0: FreshRSS - a free, self-hostable aggregator
 www-plugins/brotab 1.3.0: Control your browser's tabs from the command line
 x11-apps/xlayoutdisplay 1.0.2 9999: Detects and arranges linux displays
