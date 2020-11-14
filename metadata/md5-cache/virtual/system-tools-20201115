@@ -1,0 +1,7 @@
+DEFINED_PHASES=-
+DESCRIPTION=Collection of system tools
+EAPI=7
+KEYWORDS=amd64
+RDEPEND=app-admin/entr app-admin/pwgen app-admin/sudo app-misc/uptimed app-portage/eix app-portage/elogv app-portage/genlop app-portage/gentoolkit app-portage/layman app-portage/pfl app-portage/portage-utils app-portage/repoman dev-util/strace kde-plasma/breeze-plymouth media-sound/alsa-utils net-analyzer/mtr net-analyzer/nethogs net-analyzer/traceroute net-fs/nfs-utils net-fs/sshfs net-libs/liboping net-misc/curl net-misc/iputils net-misc/mosh net-misc/openssh net-misc/wget net-vpn/wireguard-tools sys-apps/bar sys-apps/fwupd sys-apps/gptfdisk sys-apps/lshw sys-apps/moreutils sys-apps/pv sys-block/parted sys-boot/efibootmgr sys-boot/grub:2 sys-fs/bcache-tools sys-fs/btrfs-progs sys-fs/xfsprogs sys-kernel/gentoo-kernel-bin sys-kernel/linux-firmware sys-process/atop sys-process/htop sys-process/iotop sys-process/lsof x11-terms/kitty-terminfo
+SLOT=0
+_md5_=951f24206200cb5b631081c3fbabbb0f

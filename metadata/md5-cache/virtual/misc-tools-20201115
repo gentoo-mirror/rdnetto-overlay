@@ -1,0 +1,7 @@
+DEFINED_PHASES=-
+DESCRIPTION=Collection of misc tools
+EAPI=7
+KEYWORDS=amd64
+RDEPEND=app-admin/keepassxc app-emulation/docker app-misc/jq app-office/libreoffice-bin dev-python/virtualenv kde-misc/kdiff3 mail-client/thunderbird-bin mate-extra/mate-system-monitor media-fonts/corefonts media-fonts/dejavu media-fonts/droid media-gfx/brother-scan4-bin media-sound/audacity media-sound/clementine media-sound/pavucontrol media-video/mpv media-video/vlc net-analyzer/wireshark net-misc/youtube-dl net-p2p/deluge net-wireless/wireless-tools www-client/elinks www-client/firefox-bin www-client/google-chrome www-plugins/chrome-binary-plugins x11-apps/mesa-progs x11-apps/xev x11-apps/xkill x11-misc/arandr x11-misc/sddm x11-terms/kitty
+SLOT=0
+_md5_=62d1a44d058bc697a14d88202e0a895b
