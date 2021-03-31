@@ -3,10 +3,11 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=A simpler way to invoke maven and manage the version of maven within your team.
 EAPI=6
 HOMEPAGE=http://mvnvm.org/
+INHERIT=git-r3
 KEYWORDS=~amd64 ~x86
 LICENSE=Apache-2.0
 PROPERTIES=live
 RDEPEND=dev-lang/ruby
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=5edf28646e0a6984d0171bf85d81de0f

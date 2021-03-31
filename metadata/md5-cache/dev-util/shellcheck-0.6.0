@@ -3,10 +3,11 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl] || ( dev-haskell/stack dev-haskell/stack-bin 
 DESCRIPTION=Shell script analysis tool
 EAPI=6
 HOMEPAGE=http://www.shellcheck.net/
+INHERIT=git-r3 stack
 KEYWORDS=~amd64 ~x86
 LICENSE=GPL-3
 PROPERTIES=live
 SLOT=0/0.6.0
 SRC_URI=https://github.com/commercialhaskell/ghc/releases/download/ghc-8.0.2-release/ghc-8.0.2-x86_64-fedora24-linux-patch1.tar.xz -> ghc-tinfo6-8.0.2.tar.xz
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	stack	fdb1e326d01db54bfd4653c4dca8ea8b	stack_urls	41431299ce2a6646fca542d2fa7509f0
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52	stack_urls	41431299ce2a6646fca542d2fa7509f0	stack	fdb1e326d01db54bfd4653c4dca8ea8b
 _md5_=5f0c6705d252dd0ac273bd02afa756a9
