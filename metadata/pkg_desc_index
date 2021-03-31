@@ -4,7 +4,6 @@ app-misc/diff-so-fancy 1.2.7 1.3.0: Good-lookin' diffs. Actually... nah... The b
 app-misc/dragon 20180427: Drag and drop source/target for X
 app-misc/powerline-hs 0.1.3.1 0.1.4.0 0.1.4.0-r1 9999: Tool for generating shell prompts. Haskell clone of app-misc/powerline.
 app-shells/fasd 1.0.1: Quick command-line access to files and directories
-app-text/pandoc 2.5 2.6 2.7 2.7.1 2.7.2 2.7.3: Universal markup converter (binary package)
 dev-haskell/stack 9999: The Haskell Tool Stack
 dev-haskell/stack-bin 1.2.0-r1 1.3.2 1.4.0 1.5.0 1.5.1 1.5.2_alpha 1.6.1 1.6.3 1.6.5 1.7.1 1.9.1 1.9.3 2.1.1 2.1.3 2.3.1 2.3.3: The Haskell Tool Stack (binary package)
 dev-java/jprofiler 10.1 11.0: JProfiler java profiling tool
